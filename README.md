@@ -1,5 +1,7 @@
 # Juego de Adivinanza con React y Supabase
 
+![Captura de pantalla del juego](public/Vite-React-TS.png)
+
 Este proyecto es un juego de adivinanza de números desarrollado con React y Supabase. Los usuarios pueden registrarse, iniciar sesión y jugar a adivinar un número entre 1 y 7.
 
 ## 🎮 Características
